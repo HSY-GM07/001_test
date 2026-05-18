@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PCuser\\source\\repos\\Project01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|c:\\users\\pcuser\\source\\repos\\project01\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|c:\\users\\pcuser\\source\\repos\\project01\\project01\\systems\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|solutionrelative:project01\\systems\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|c:\\users\\pcuser\\source\\repos\\project01\\project01\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|solutionrelative:project01\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|c:\\users\\pcuser\\source\\repos\\project01\\project01\\models\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|solutionrelative:project01\\models\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|c:\\users\\pcuser\\source\\repos\\project01\\project01\\models\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|solutionrelative:project01\\models\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|c:\\users\\pcuser\\source\\repos\\project01\\project01\\models\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|solutionrelative:project01\\models\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|c:\\users\\pcuser\\source\\repos\\project01\\project01\\models\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|solutionrelative:project01\\models\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|c:\\users\\pcuser\\source\\repos\\project01\\project01\\interfaces\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCF27DE-7CBC-431C-9A3C-73B88E98EB4A}|Project01\\Project01.csproj|solutionrelative:project01\\interfaces\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Systems\\BattleManager.cs",
+              "RelativeDocumentMoniker": "Project01\\Systems\\BattleManager.cs",
+              "ToolTip": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Systems\\BattleManager.cs",
+              "RelativeToolTip": "Project01\\Systems\\BattleManager.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwEgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:13:18.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Models\\Monster.cs",
+              "RelativeDocumentMoniker": "Project01\\Models\\Monster.cs",
+              "ToolTip": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Models\\Monster.cs",
+              "RelativeToolTip": "Project01\\Models\\Monster.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA2wBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:13:11.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rogue.cs",
+              "DocumentMoniker": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Models\\Rogue.cs",
+              "RelativeDocumentMoniker": "Project01\\Models\\Rogue.cs",
+              "ToolTip": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Models\\Rogue.cs",
+              "RelativeToolTip": "Project01\\Models\\Rogue.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:13:04.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Models\\Mage.cs",
+              "RelativeDocumentMoniker": "Project01\\Models\\Mage.cs",
+              "ToolTip": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Models\\Mage.cs",
+              "RelativeToolTip": "Project01\\Models\\Mage.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:12:57.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Models\\Warrior.cs",
+              "RelativeDocumentMoniker": "Project01\\Models\\Warrior.cs",
+              "ToolTip": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Models\\Warrior.cs",
+              "RelativeToolTip": "Project01\\Models\\Warrior.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:12:49.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Project01\\Models\\Character.cs",
+              "ToolTip": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Models\\Character.cs",
+              "RelativeToolTip": "Project01\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:12:40.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsable.cs",
+              "DocumentMoniker": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Interfaces\\IUsable.cs",
+              "RelativeDocumentMoniker": "Project01\\Interfaces\\IUsable.cs",
+              "ToolTip": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Interfaces\\IUsable.cs",
+              "RelativeToolTip": "Project01\\Interfaces\\IUsable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:12:23.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Program.cs",
+              "RelativeDocumentMoniker": "Project01\\Program.cs",
+              "ToolTip": "C:\\Users\\PCuser\\source\\repos\\Project01\\Project01\\Program.cs",
+              "RelativeToolTip": "Project01\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:11:06.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
